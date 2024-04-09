@@ -22,7 +22,7 @@
 
 ![](Aspose.Words.e9278d6b-a904-4b79-a617-178079b5fa53.005.png) ![](Aspose.Words.e9278d6b-a904-4b79-a617-178079b5fa53.006.png)
 
-▲苦力怕<pre>            </pre> ▲史帝夫
+▲苦力怕&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▲史帝夫
 
 ![](Aspose.Words.e9278d6b-a904-4b79-a617-178079b5fa53.009.png)
 
