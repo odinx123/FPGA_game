@@ -26,7 +26,8 @@
 
 ![](Aspose.Words.e9278d6b-a904-4b79-a617-178079b5fa53.009.png)
 
-▲遊戲畫面 結論 
+▲遊戲畫面
+**結論**
 
 - 在這個專題中，我們學到很多分工合作的技巧，以及很多 verilog 撰寫的技巧，其中在 我們為了實現地圖與腳色顯示到螢幕上，我們利用 y 跟 x 座標讀取資料進來並判斷是 否顯示當前像素。 
 - 在移動腳色方面，我們使用個別的 x 跟 y 來代表兩個人物，並且改動 x 跟 y 來移動人 物座標(VGA 是根據 x、y 來畫人物的)。 
@@ -36,4 +37,4 @@
 - 苦力怕: [https://people2.pixnet.net/blog/post/40218122 ](https://people2.pixnet.net/blog/post/40218122)
 - 史帝夫: [https://www.pinterest.com/pin/375487687673255002 ](https://www.pinterest.com/pin/375487687673255002)
 - MC 標題: [https://icon-icons.com/icon/minecraft-logo/168099 ](https://icon-icons.com/icon/minecraft-logo/168099)
-3 
+  
