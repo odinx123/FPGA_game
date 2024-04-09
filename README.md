@@ -18,7 +18,7 @@
 
 ![](Aspose.Words.e9278d6b-a904-4b79-a617-178079b5fa53.003.jpeg)
 
-▲地圖 ![](Aspose.Words.e9278d6b-a904-4b79-a617-178079b5fa53.004.png)
+▲地圖 
 
 ![](Aspose.Words.e9278d6b-a904-4b79-a617-178079b5fa53.005.png) ![](Aspose.Words.e9278d6b-a904-4b79-a617-178079b5fa53.006.png)
 
